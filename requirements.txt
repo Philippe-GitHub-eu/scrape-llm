@@ -7,3 +7,5 @@ python-dotenv==1.*
 requests-cache==1.*
 ollama==0.3.*
 huggingface_hub==0.25.*
+streamlit==1.*
+Pillow==10.*
