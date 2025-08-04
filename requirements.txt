@@ -1,0 +1,9 @@
+httpx[http2]==0.27.*
+selectolax==0.3.*
+trafilatura==1.9.*
+pydantic==2.*
+tenacity==8.*
+python-dotenv==1.*
+requests-cache==1.*
+ollama==0.3.*
+huggingface_hub==0.25.*
