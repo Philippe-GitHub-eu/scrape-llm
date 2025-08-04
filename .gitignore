@@ -5,6 +5,7 @@ __pycache__/
 .env
 .env.example
 http_cache/
+http_cache
 
 # Editors
 .vscode/
