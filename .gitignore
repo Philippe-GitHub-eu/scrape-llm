@@ -4,8 +4,12 @@ __pycache__/
 .venv/
 .env
 .env.example
+# HTTP / requests-cache
 http_cache/
-http_cache
+http_cache*
+httpx_cache/
+httpx_cache*
+
 
 # Editors
 .vscode/
