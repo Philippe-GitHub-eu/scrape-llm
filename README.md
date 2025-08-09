@@ -3,8 +3,6 @@
 Small Python scraping + LLM pipeline with strict resource/output caps.
 Works with Ollama (local) or Hugging Face Inference.
 
-# scrape-llm
-
 Lightweight web-scraper that combines **text extraction, image sampling, and local LLM reasoning**.  
 Runs fully offline with **Ollama** (Gemma 3, DeepSeek R1 8B, Llama 3 8B, …) or via **Hugging Face Inference**.  
 Includes a one-click Streamlit GUI.
