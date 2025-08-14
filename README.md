@@ -61,6 +61,3 @@ Therefore, I will go forward with different iteretions and models:
 
 
 
-
-
-
